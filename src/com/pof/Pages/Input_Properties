@@ -1,0 +1,10 @@
+URL=https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+userNameID=username
+passwordID=password
+login_xpath=//button[@type='submit']
+userName_Input=Admin
+password_Input=admin123
+Firstname_Input=faru
+Middlename_Input=u
+Lastname_Input=k
+EmployeeID_Input=123
